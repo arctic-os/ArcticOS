@@ -117,6 +117,9 @@ xfsprogs
 xl2tpd
 zsh
 
+## Display Manager
+sddm
+
 ## Utilities
 neofetch
 htop
