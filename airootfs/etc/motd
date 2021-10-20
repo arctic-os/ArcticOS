@@ -1,10 +1,25 @@
-To install [38;2;23;147;209mArch Linux[0m follow the installation guide:
-https://wiki.archlinux.org/title/Installation_guide
+This ISO is based on Arch-ISO modified hugely to provide Installation Environment for ArcticOS.
+https://github.com/arctic-os/ArcticOS
 
-For Wi-Fi, authenticate to the wireless network using the [35miwctl[0m utility.
-For mobile broadband (WWAN) modems, connect with the [35mmmcli[0m utility.
-Ethernet, WLAN and WWAN interfaces using DHCP should work automatically.
+ArcticOS-archiso Sources:
+https://github.com/arctic-os/ArcticOS
 
-After connecting to the internet, the installation guide can be accessed
-via the convenience script [35mInstallation_guide[0m.
+Arch-ISO Source:
+https://gitlab.archlinux.org/archlinux/archiso
 
+Calamares as our installer:
+https://github.com/calamares/calamares
+
+Live environment will start now and let you install ArcticOS to disk, or tryout XFCE4-Desktop from Live-Session.
+
+
+#Getting help at the forum: https://forum.endeavouros.com
+#Help-Chat is available on telegram: https://t.me/Endeavouros/
+#News at reddit: https://www.reddit.com/r/EndeavourOS/
+#News at twitter: https://twitter.com/OsEndeavour
+
+Thank you for donating your trust in us!
+
+Welcome to your ArcticOS
+
+----
