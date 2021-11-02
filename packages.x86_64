@@ -125,3 +125,15 @@ neofetch
 htop
 git
 firefox
+
+##----------- Terminals ------------##
+alacritty
+
+##----------- Kde-Plasma -----------##
+plasma-meta
+konsole
+dolphin
+sddm
+sddm-kcm
+
+
