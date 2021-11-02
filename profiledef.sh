@@ -3,7 +3,7 @@
 
 iso_name="arctic-os"
 iso_label="ArcticOS_$(date +%Y%m)"
-iso_publisher="Anil Beesetti <https://archlinux.org>"
+iso_publisher="Anil Beesetti <anilbeesetti10@gmail.com>"
 iso_application="ArcticOS Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
