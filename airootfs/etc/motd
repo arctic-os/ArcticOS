@@ -1,10 +1,10 @@
 This ISO is based on Arch-ISO modified hugely to provide Installation Environment for ArcticOS.
 https://github.com/arctic-os/ArcticOS
 
-ArcticOS-archiso Sources:
+ArcticOS-archiso Sources: 
 https://github.com/arctic-os/ArcticOS
 
-Arch-ISO Source:
+Arch-ISO Source: 
 https://gitlab.archlinux.org/archlinux/archiso
 
 Calamares as our installer:
@@ -22,4 +22,4 @@ Thank you for donating your trust in us!
 
 Welcome to your ArcticOS
 
-----
+---
