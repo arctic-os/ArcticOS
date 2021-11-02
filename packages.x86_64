@@ -1,18 +1,18 @@
 alsa-utils
 amd-ucode
 arch-install-scripts
-archinstall
+#archinstall
 b43-fwcutter
 base
 bind-tools
-brltty
+#brltty
 broadcom-wl
 btrfs-progs
 clonezilla
-cloud-init
+#cloud-init
 crda
 cryptsetup
-darkhttpd
+#darkhttpd
 ddrescue
 dhclient
 dhcpcd
@@ -23,7 +23,7 @@ dosfstools
 e2fsprogs
 edk2-shell
 efibootmgr
-espeakup
+#espeakup
 ethtool
 exfatprogs
 f2fs-tools
@@ -107,7 +107,7 @@ usb_modeswitch
 usbmuxd
 usbutils
 vim
-virtualbox-guest-utils-nox
+#virtualbox-guest-utils-nox
 vpnc
 wireless-regdb
 wireless_tools
@@ -117,10 +117,11 @@ xfsprogs
 xl2tpd
 zsh
 
-## Display Manager
-sddm
+## base
+base-devel
 
-## Utilities
+##----------- Utilities -----------##
 neofetch
 htop
+git
 firefox
